@@ -18,7 +18,7 @@ En este proyecto me enfoque en construir una página que nos ayude a ir a algún
 + **Header:** Sección que involucra solo el título de la página, así como el link al CSS3.
   
 + **Main:** Sección del contenedor para los elementos centrales de la página: Texto y botón, así como el link de la serie, libro, video musical, entre otros.
-  
+
 Las tecnologías que utilice son:
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
